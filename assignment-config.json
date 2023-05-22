@@ -1,0 +1,15 @@
+{
+	"name": "js-dasar-final-project-student-portal",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Final Project - Student Portal",
+	"order": 999,
+	"topics": [
+		"nodejs"
+	],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 11,
+	"metadata": {
+		"type": "final-project"
+	}
+}
